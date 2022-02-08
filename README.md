@@ -14,9 +14,5 @@ https://user-images.githubusercontent.com/95359255/152963680-8cad614a-f64e-4bf5-
 #now if you do not enter the things properly it will show error .
 ![Screenshot (843)](https://user-images.githubusercontent.com/95359255/152963837-af1079fa-4993-4c91-9231-a0d9bec12403.png)
 
-#now this two pick is of mail 1st one is to user and second to company HR
-![Screenshot (844)](https://user-images.githubusercontent.com/95359255/152964152-f660be9d-a655-4e72-95d6-caf8bfc455c0.png)
-#this one is to company 
-
 
 
